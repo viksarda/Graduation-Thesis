@@ -1,8 +1,6 @@
 # Graduation-Thesis
 The solution for the graduation thesis of 2021
 
-Because the filesize extends 100 I can only submit it compressed.
-
 This project was one of the biggest I have done and it includes PHP and MySQL to give the website the functionalities.
 
 HOW TO SETUP
