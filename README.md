@@ -12,7 +12,7 @@ Afterwards change the variables of the connection to the DB:
 2. classes\DB.php line 5
 
 Now you can successfuly launch the application however you are still not allowed to post images for the reason being the application uses access tokens to use imgur
-to upload and retrieve them from there.
+to upload and retrieve them from there (You can post, but only the caption).
 
 So you will need to make an account on imgur and request an access token for your account which then you can paste it in:
 classes\Image.php line 9 (the long string)
